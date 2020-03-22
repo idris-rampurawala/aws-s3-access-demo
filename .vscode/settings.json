@@ -1,0 +1,24 @@
+{
+  "python.pythonPath": "aws-s3-access-env\\Scripts\\python.exe",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "autopep8",
+  "python.formatting.autopep8Path": "aws-s3-access-env\\Scripts\\autopep8",
+  "python.formatting.autopep8Args": [
+    "--max-line-length",
+    "70",
+    "--aggressive",
+  ],
+  "python.linting.lintOnSave": true,
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "python.linting.pylintPath": "aws-s3-access-env\\Scripts\\pylint",
+  "python.linting.pylintArgs": [
+    "--load-plugins",
+    "--enable=W0614",
+    "--enable= W0611"
+  ],
+  "[python]": {
+    "editor.tabSize": 4
+  },
+}

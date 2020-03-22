@@ -1,0 +1,14 @@
+*.bkp
+*.bak
+*.dat
+*.dir
+*.pid
+
+### Flask ###
+log/*
+*.log
+*.pot
+*.bkp
+*.pyc
+__pycache__/*
+aws-s3-access-env/*
