@@ -12,3 +12,6 @@ log/*
 *.pyc
 __pycache__/*
 aws-s3-access-env/*
+.env
+
+*.pem
