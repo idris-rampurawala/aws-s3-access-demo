@@ -1,4 +1,4 @@
-﻿astroid==2.3.3
+astroid==2.3.3
 autopep8==1.5
 boto3==1.12.26
 botocore==1.15.26
@@ -7,7 +7,7 @@ click==7.1.1
 colorama==0.4.3
 cryptography==3.3.2
 docutils==0.15.2
-Flask==1.1.1
+Flask==2.3.2
 isort==4.3.21
 itsdangerous==1.1.0
 Jinja2==2.11.3
